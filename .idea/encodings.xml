@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/account-identifier-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-kafka-adapter-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-kafka-batch-adapter-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-jms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jms-batch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strip-file-producer-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-spring/src/main/java" charset="UTF-8" />
+  </component>
+</project>

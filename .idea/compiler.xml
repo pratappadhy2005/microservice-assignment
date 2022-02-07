@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mq-kafka-batch-adapter-ms" />
+        <module name="strip-file-producer-client" />
+        <module name="account-identifier-ms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-identifier-ms" target="1.8" />
+      <module name="mq-kafka-adapter-ms" target="1.8" />
+      <module name="mq-kafka-batch-adapter-ms" target="1.8" />
+      <module name="spring-batch-jms" target="1.8" />
+      <module name="spring-jms-batch" target="1.8" />
+      <module name="strip-file-producer-client" target="1.8" />
+      <module name="test-spring" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account-identifier-ms" options="-parameters" />
+      <module name="mq-kafka-adapter-ms" options="-parameters" />
+      <module name="mq-kafka-batch-adapter-ms" options="-parameters" />
+      <module name="spring-batch-jms" options="-parameters" />
+      <module name="spring-jms-batch" options="-parameters" />
+      <module name="strip-file-producer-client" options="-parameters" />
+      <module name="test-spring" options="-parameters" />
+    </option>
+  </component>
+</project>

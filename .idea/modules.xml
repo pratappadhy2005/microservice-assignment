@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EMSPushNotificationAssignment.iml" filepath="$PROJECT_DIR$/EMSPushNotificationAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account-identifier-ms/account-identifier-ms.iml" filepath="$PROJECT_DIR$/account-identifier-ms/account-identifier-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-kafka-batch-adapter-ms/mq-kafka-batch-adapter-ms.iml" filepath="$PROJECT_DIR$/mq-kafka-batch-adapter-ms/mq-kafka-batch-adapter-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strip-file-producer-client/strip-file-producer-client.iml" filepath="$PROJECT_DIR$/strip-file-producer-client/strip-file-producer-client.iml" />
+    </modules>
+  </component>
+</project>
